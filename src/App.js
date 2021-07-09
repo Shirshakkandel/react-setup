@@ -1,5 +1,6 @@
-function App() {
-  return <div className="App ml-10">App</div>
-}
+import { Browser as Router, Switch, Route } from 'react-router-dom'
 
+function App() {
+  return <div className="ml-10">App</div>
+}
 export default App
